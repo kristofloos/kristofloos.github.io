@@ -1,0 +1,13 @@
+ #pv_title {
+   font-size: 2.5em;
+}
+
+#pv_energy_label, #pv_power_label, #pv_gss_label, #pv_temperature_label, #pv_voltage_label {
+   font-weight: bold;
+   font-size: 2.5em;
+}
+
+#pv_timestamp {
+   padding-top: 5px;
+   font-size: 20px;
+} 
